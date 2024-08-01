@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #0056b3;
+}
+
+.section-title {
+    margin-top: 40px;
+}
+
+.contact-info, .skills, .education, .projects, .experience {
+    margin-bottom: 30px;
+}
